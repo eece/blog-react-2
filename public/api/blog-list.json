@@ -7,12 +7,13 @@
         "date": "2023-01-01",
         "slug": "blog-1",
         "imageUrl": "https://placehold.co/600x400/EEE/31343C",
+        "featuredImageUrl": "/images/featuredImage.jpg",
         "author": "John Doe",
         "tags": [
             "Philosophy",
             "Mindfulness"
         ],
-        "content": "<p>In an era defined by the persistent hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p><p>In an era defined by the persistent hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p>"
+        "content": "<h1>Sample Title</h1> <p>In an era defined by the persistent hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p><p>In an era defined by the persistent hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p>"
     },
     {
         "title": "Blog 2",
@@ -22,12 +23,13 @@
         "date": "2023-02-01",
         "slug": "blog-2",
         "imageUrl": "https://placehold.co/600x400/EEE/31343C",
+        "featuredImageUrl": "/images/featuredImage.jpg",
         "author": "Jane Smith",
         "tags": [
             "Technology",
             "Innovation"
         ],
-        "content": "<p>In an era defined by the persistent hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p><p>In an era defined by the persistent hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p>"
+        "content": "<p>Blog 2 content In an era defined by the persistent</p> <h1>Sample Title</h1> <p>hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p><p>In an era defined by the persistent hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p>"
     },
     {
         "title": "Blog 3",
@@ -37,11 +39,12 @@
         "date": "2023-03-01",
         "slug": "blog-3",
         "imageUrl": "https://placehold.co/600x400/EEE/31343C",
+        "featuredImageUrl": "/images/featuredImage.jpg",
         "author": "Alice Johnson",
         "tags": [
             "Health",
             "Wellness"
         ],
-        "content": "<p>In an era defined by the persistent hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p><p>In an era defined by the persistent hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p>"
+        "content": "<p>Blog 3 content In an era defined by the persistent hum of digital </p><h1>Sample Title</h1> <p>notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p><p>In an era defined by the persistent hum of digital notifications and the relentless pull of the attention economy, silence has become the ultimate luxury. We are no longer just consumers of information; we are its targets. To find focus today is not merely a productivity hack—it is an act of architectural resistance.</p>"
     }
 ]

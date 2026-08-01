@@ -28,7 +28,9 @@ export function RecentBlogs() {
                         <div className={classes.blog} key={blog.slug}>
 
                             <div className={classes.blogImage}>
-                                <img src={blog.imageUrl} alt={blog.title} />
+                                <NavLink to={`/blog/${blog.slug}`}>
+                                    <img src={blog.featuredImageUrl} alt={blog.title} />
+                                </NavLink>
                             </div>
 
                             <div className={classes.blogContent}>
@@ -40,7 +42,6 @@ export function RecentBlogs() {
                                 <p>{blog.excerpt}</p>
                                 <NavLink to={`/blog/${blog.slug}`}>Read More</NavLink>
                             </div>
-                            
                         </div>
                     ))}
                 </div>
