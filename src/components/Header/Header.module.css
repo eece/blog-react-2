@@ -1,0 +1,16 @@
+.headerWrapper {
+    background-color: #fbf9f9;
+    border-bottom: 1px solid #e5e4e7;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+}

@@ -1,0 +1,19 @@
+.footerContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:80px 0;
+}
+
+.footerTitle {
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 600;
+    margin-bottom:5px;
+}
+
+.footerDescription {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+}

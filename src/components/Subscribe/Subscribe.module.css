@@ -1,0 +1,27 @@
+.subscribe {
+  background-color: #efeded;
+  padding: 2rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.subscribe .form {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.subscribe .form input[type="email"] {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 150px;
+}
+
+.subscribe .form button {
+  padding: 0.5rem 1rem;
+  background-color: #000;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}

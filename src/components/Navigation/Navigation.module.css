@@ -1,0 +1,19 @@
+.nav {
+  display: flex;
+  gap: .5rem
+}
+
+.nav a {
+  text-decoration: none;
+  color: #000;
+}
+
+a.active {
+    font-weight: bold;
+}
+
+.nav.footerNav a {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+}
