@@ -9,7 +9,8 @@ import { format } from 'date-fns';
 export function BlogDetail() {
   const { id } = useParams();
   const [blogData, setBlogData] = useState(null);
-
+  // /api/blog/:id GET 
+  // /api/blog   
   useEffect(() => {
     // Fetch the blog data based on the id from the URL
     axios.get(`/api/blog-list.json`)

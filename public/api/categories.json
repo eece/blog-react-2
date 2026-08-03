@@ -1,0 +1,14 @@
+[
+        {
+            "name": "Philosophy",
+            "slug": "philosophy"
+        },
+        {
+            "name": "Mindfulness",
+            "slug": "mindfulness"
+        },
+        {
+            "name": "Technology",
+            "slug": "technology"
+        }
+    ]

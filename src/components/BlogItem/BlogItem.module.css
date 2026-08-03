@@ -1,0 +1,42 @@
+.blog {
+    display: flex;
+    gap: 16px;
+}
+
+.blog img {
+    height: 200px;
+    width: auto;
+}
+
+.blog a {
+    font-weight: 600;
+}
+
+.blogMeta {
+    display: flex;
+    gap: 2px;
+    margin-top: 8px;
+}
+
+.blogMeta span {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #444748;
+}
+
+.blogMeta span:first-child::after {
+    content: "•";
+    margin: 0 4px;
+}
+
+@media (max-width: 768px) {
+    .blog {
+        flex-direction: column;
+    }
+
+    .blog img {
+        height: auto;
+        width: 100%;
+    }
+}

@@ -8,6 +8,8 @@ import { Route, Routes } from 'react-router-dom'
 import { Header } from './components/Header/Header'
 import { Footer } from './components/Footer/Footer'
 import { BlogDetail } from './components/BlogDetail/BlogDetail'
+import { Categories } from './components/Categories/Categories'
+import { NotFound } from './components/NotFound/NotFound'
 
 function App() {
 
@@ -17,7 +19,9 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
+        <Route path="/blog" element={<Categories />} />
         <Route path="/blog/:id" element={<BlogDetail />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
     </>
